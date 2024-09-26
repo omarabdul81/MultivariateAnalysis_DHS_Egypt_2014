@@ -2,7 +2,8 @@
 
 ## Overview
 In this project, we developed a data pipeline to analyze and extract socioeconomic indices that characterize the living standards of families in Egypt, utilizing the 2014 raw data from the Standard Demographic and Health Surveys (DHS) by [the DHS Program](https://www.dhsprogram.com/). The pipeline begins by collecting raw survey data, narrowing the scope of target variables, and converting the data into a CSV format for analysis. We then preprocess the data, transforming it into a format suitable for multivariate analysis. This involves Exploratory Data Analysis (EDA) to identify and remove irregular data, such as outliers and highly skewed variables. <br>
-Subsequently, we apply advanced statistical techniques, including Principal Component Analysis (PCA), Factor Analysis, and cluster analysis, to reduce dimensionality and extract meaningful socioeconomic indices. These indices provide a comprehensive view of household living standards and help summarize complex data patterns effectively.
+Subsequently, we apply advanced statistical techniques, including Principal Component Analysis (PCA), Factor Analysis, and cluster analysis, to reduce dimensionality and extract meaningful socioeconomic indices. These indices provide a comprehensive view of household living standards and help summarize complex data patterns effectively. <br>
+The complete description of the project can be found [Here](https://medium.com/@omarhokudai/analysis-and-extraction-of-socio-economic-indices-from-the-standard-demographic-and-health-surveys-b1cca755377a)
 
 ## Prerequisites
 ### Standard Demographic and Health Surveys (DHS)
